@@ -1,4 +1,4 @@
-# ** Olympic-Games-Analysis---120-Years-of-History **
+##  Olympic-Games-Analysis---120-Years-of-History 
 A detailed analysis of 120 years of Olympic Games history, exploring team performance, medal distribution, and athlete demographics using data visualization techniques
 
 ## Project Overview
@@ -24,6 +24,9 @@ Dashboard Development: Creating interactive visualizations to showcase insights.
 ### Contact
 ### For any questions or inquiries, please contact:
 
-Your Name: Shubh Desai
-Email: shubhdesai2000@gmail.com
-GitHub: shubhdesai16
+**Author**
+
+[Shubh Desai](https://www.linkedin.com/in/shubh-desai-1b0173170/)
+
+
+
